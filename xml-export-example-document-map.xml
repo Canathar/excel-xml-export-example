@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--
+╔═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║ xml_export_data_document_map.xml                                                                                                ║
+║                                                                                                                                 ║
+║ Document Best Viewed/Printed: Page{Legal, Portrait, 0.25in Side Margins}   Font{Monospaced Font, Normal, 10pt}                  ║
+║                                                                                                                                 ║
+╠═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║                                              Revision History                                       ║
+╠═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║ VV.vv.DOYyy.bb (dd MMM yy) - Initial Creation/Development Update/Maintenance Update                                             ║
+║                                                                                                                                 ║
+║  1.00.10217.00 (23 Aug 23) - Initial Creation {J. Laccone}                                                                      ║
+║                                 Added header, added reference data                                                              ║
+║                                                                                                                                 ║
+╠═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║                                                            Reference                                                            ║
+╠═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                                                                 ║
+║   How To Convert Data in Excel to XML in 7 Easy Steps                                                                           ║
+║   ===================================================                                                                           ║
+║      https://blog.udemy.com/excel-to-xml/                                                                                       ║
+║                                                                                                                                 ║
+╚═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
+-->
+<xml-export-example-document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <record>
+       <column1>data</column1>
+       <column2>data</column2>
+       <column3>data</column3>
+    </record>
+    <record>
+       <column1>data</column1>
+       <column2>data</column2>
+       <column3>data</column3>
+    </record>
+</xml-export-example-document>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xml-export-example-document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<record>
+		<column1>A2_text</column1>
+		<column2>1</column2>
+		<column3>1.01</column3>
+	</record>
+	<record>
+		<column1>A3_text</column1>
+		<column2>2</column2>
+		<column3>2.02</column3>
+	</record>
+	<record>
+		<column1>A4_text</column1>
+		<column2>3</column2>
+		<column3>3.03</column3>
+	</record>
+</xml-export-example-document>
